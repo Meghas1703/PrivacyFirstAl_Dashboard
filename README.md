@@ -1,2 +1,1 @@
-Emergency-Response-AiI--Live-warden-Dashboard
 CrisisLens is a next-generation emergency monitoring system designed to bridge the gap between operational safety and individual privacy. By utilizing Differential Privacy, the system provides emergency wardens with real-time situational awareness without ever exposing the identities of building occupants.
